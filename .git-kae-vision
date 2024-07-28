@@ -1,0 +1,11 @@
+/* Чтобы Git видел kaecode */
+
+allowed-files:
+  script
+  html
+  kae-sphere
+
+not-allowed-files:
+  .gitignore/Kae/
+
+END
